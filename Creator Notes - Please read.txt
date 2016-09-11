@@ -1,0 +1,23 @@
+Some of the code of the game might not fully represent the current skills of the creator.
+
+
+The game represents 4-phases per level of classical "shoot 'em up" game with increasing dificulty after each level:
+
+Usage:
+Menu:
+Arrowkeys for navigation
+
+Game:
+Movement:    Arrow keys
+Fire:        Space bar
+Super Bomb:  Enter
+Resurrect:   'n' 
+Menu:        Escape
+
+DevTools(i.e. Cheats):
+Q            Mouse mode(rapid fire on mouse movement)
+W            Add normal weapon level
+E            Add homing weapon level
+R            Add Super bomb charge
+
+

@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1309959491 source:d:\sdl total\new folder (2)\gundown\gamew.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	<vector>
+	<Cmath>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<Cstdlib>
+	<Windows.h>
+	"GameClasses.hh"
+	"GlobalVariables.hh"
+	"EventHandler.hh"
+	"MainMenu.hh"
+	"Bullets.hh"
+	"Booms.hh"
+	"HomingMissiles.hh"
+	"Bonusses.hh"
+	"Player.hh"
+	"Enemyes.hh"
+	"Bosses.hh"
+	"LevelManager.hh"
+	"GUI.hh"
+	"Phases.hh"
+	"Bomb.hh"
+
+1309612258 d:\sdl total\new folder (2)\gundown\gameclasses.hh
+	<vector>
+
+1309612588 d:\sdl total\new folder (2)\gundown\globalvariables.hh
+
+1309961254 d:\sdl total\new folder (2)\gundown\eventhandler.hh
+	<vector>
+
+1309609628 d:\sdl total\new folder (2)\gundown\mainmenu.hh
+	<sstream>
+
+1303884350 d:\sdl total\new folder (2)\gundown\bullets.hh
+
+1303484104 d:\sdl total\new folder (2)\gundown\booms.hh
+
+1303893516 d:\sdl total\new folder (2)\gundown\homingmissiles.hh
+
+1309960522 d:\sdl total\new folder (2)\gundown\bonusses.hh
+
+1307618675 d:\sdl total\new folder (2)\gundown\player.hh
+	<vector>
+
+1303824702 d:\sdl total\new folder (2)\gundown\enemyes.hh
+	<vector>
+
+1304008118 d:\sdl total\new folder (2)\gundown\bosses.hh
+
+1303466518 d:\sdl total\new folder (2)\gundown\levelmanager.hh
+	<vector>
+	<iostream>
+
+1309611659 d:\sdl total\new folder (2)\gundown\gui.hh
+
+1304588968 d:\sdl total\new folder (2)\gundown\phases.hh
+	<vector>
+
+1303892150 d:\sdl total\new folder (2)\gundown\bomb.hh
+
